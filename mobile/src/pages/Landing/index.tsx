@@ -26,7 +26,7 @@ function Landing() {
       <Image source={landingImg} style={styles.banner} />
 
       <Text style={styles.title}>
-        Sejabem-vindo, {'\n'}
+        Seja bem-vindo, {'\n'}
         <Text style={styles.titleBold}>
           O que deseja fazer?
         </Text>
