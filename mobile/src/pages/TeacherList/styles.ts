@@ -52,6 +52,16 @@ const styles = StyleSheet.create({
     fontFamily: 'Archivo_700Bold',
     fontSize: 16,
   },
+
+  pickerSelect: {
+		height: 54,
+		backgroundColor: '#FFF',
+		borderRadius: 8,
+		justifyContent: 'center',
+		paddingLeft:3,
+		marginTop: 4,
+		marginBottom: 16,
+	},
 })
 
 export default styles;
