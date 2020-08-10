@@ -183,7 +183,7 @@ If you want do help with the code follow the steps bellow
 ```ps
 # Fork using GitHub official command line
 # If you don't have the GitHub CLI, use the web site to do that.
-$ gh repo fork pmqueiroz/proffy
+$ gh repo fork piiiiva/proffy
 
 # Clone your fork
 $ git clone {your-fork-url}
