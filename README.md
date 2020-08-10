@@ -10,7 +10,7 @@
 <!-- [proffy-apk-badge]: https://img.shields.io/badge/Apk-download-important?logo=android&color=%238257E5 -->
 <!-- [proffy-apk-url]: https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40pmqueiroz/mobile-16c4dd082b2e4fc892b33b58a3a9e529-signed.apk -->
 <!-- [netfly-url]: https://pmqueiroz-proffy.netlify.app -->
-[license-url]: https://github.com/piiiiva/proffy/blob/master/LICENSE
+[license-url]: https://github.com/piiiiva/proffy/blob/master/license
 [issues-url]: https://github.com/piiiiva/proffy/issues/
 [node-url]: https://nodejs.org/en
 [yarn-url]: https://classic.yarnpkg.com/
