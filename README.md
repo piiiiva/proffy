@@ -53,7 +53,7 @@
 <!-- ![Codacy Quality][codacy-badge] -->
 <div align="center">
 
-
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Proffy%20-%20NLW%232&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fpiiiiva%2Fproffy%2Fmaster%2Finsomniaexport.json)
 
 </div>
 
