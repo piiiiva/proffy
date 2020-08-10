@@ -40,7 +40,7 @@
 
 <div align="center">  
     
-<a href="https://www.linkedin.com/in/rodrigo-piva-10772827/" target="blank">
+<a href="https://www.linkedin.com/in/rodrigo-piva-10772827/" target="_blank">
   <img alt="Linkedin Rodrigo Piva" src="https://img.shields.io/badge/-Rodrigo Piva-0072B1?style=flat&logo=Linkedin&logoColor=white" />
 </a>
 
@@ -227,7 +227,7 @@ Version 2.0 Features
 This project is under the MIT license. See the [LICENSE][license-url] for more information.
 
 <br>
-Did you like this README? I was inspired by <a href="https://github.com/pmqueiroz/proffy/blob/master/.github/README.md" target="blank">pmqueiroz</a>.
+Did you like this README? I was inspired by <a href="https://github.com/pmqueiroz/proffy/blob/master/.github/README.md" target="_blank">pmqueiroz</a>.
 
 ----
 <br>
