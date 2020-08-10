@@ -53,7 +53,7 @@
 <!-- ![Codacy Quality][codacy-badge] -->
 <div align="center">
 
-[![Run in Insomnia](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=ecoleta&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fpiiiiva%2Fecoleta-app%2Fmaster%2Fserver%2FInsomnia_export.json)
+
 
 </div>
 
