@@ -23,7 +23,7 @@
 
 
 <div align="center">  
-  <img width="500px" align="center" src="https://user-images.githubusercontent.com/60410507/89747545-98659d80-da95-11ea-96a6-4435ce933ed5.png">
+  <img width="100%" align="center" src="https://user-images.githubusercontent.com/60410507/89747545-98659d80-da95-11ea-96a6-4435ce933ed5.png">
   </img>
 </div>
 
